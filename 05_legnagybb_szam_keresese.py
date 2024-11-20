@@ -5,3 +5,8 @@ Hozz létre egy listát számokkal: [10, 20, 5, 8, 15].
 
 
 # max függvény 
+
+numbers = [10, 20, 5, 8 ,15]
+highest = max(numbers)
+
+print(highest)
